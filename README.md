@@ -8,4 +8,6 @@ These are a mixture of class notes, research and mini-projects.
 
 * Research is mostly in the area of foreign exchange, speculation and capital flows. 
 
-* There a mixture of R, python and tikz projects. 
+* There a mixture of R, python and tikz projects.
+
+* Have fun!
